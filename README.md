@@ -12,6 +12,11 @@ this is my final frt project THE FOOD BLOG HELPS US TO "Feel The Extraordinary L
 
 ![image](https://user-images.githubusercontent.com/115391269/198199458-d0635814-5aab-42f2-94a0-498e2d662def.png)
 
+![image](https://user-images.githubusercontent.com/115391269/198205632-c23a22b1-af45-48c5-aeec-949240769bf1.png)
+
+![image](https://user-images.githubusercontent.com/115391269/198205725-40fc3cac-a2ab-4039-a1b6-a232e5d5bdc1.png)
+
+
 
 # Languages used
 CSS ,HTML AND JAVASCRIPT
