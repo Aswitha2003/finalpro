@@ -9,9 +9,6 @@ this is my final frt project THE FOOD BLOG HELPS US TO "Feel The Extraordinary L
 
 # Screenshots of project
 
-![image](https://user-images.githubusercontent.com/115391269/198198988-a3c225d2-906b-400e-8f03-3cc3d85fcb93.png)
-
-![image](https://user-images.githubusercontent.com/115391269/198199004-be351c14-d56f-4c43-a262-4529988ee70e.png)
 
 # Languages used
 CSS ,HTML AND JAVASCRIPT
