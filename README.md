@@ -1,5 +1,4 @@
-# finalpro
-this is my final frt project
+# Azure link
 
 # Foodie-Blog-Starter
 this is my final frt project THE FOOD BLOG HELPS US TO "Feel The Extraordinary Love With Our Dishes. We Have Millions Of Flavors
